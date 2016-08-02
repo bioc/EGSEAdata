@@ -7,8 +7,12 @@
 #' @docType package 
 #' @title Gene Set Collections for the EGSEA package
 #' @author Monther Alhamdoosh, Yifang Hu and Gordon K. Smyth 
-#' @description This package provides R data objects for the  gene set collections that 
-#' are used by the EGSEA package.
+#' @description This package includes gene set collections that are used for the 
+#' Ensemble of Gene Set Enrichment Analyses (EGSEA) method for gene set testing. 
+#' It includes Human and Mouse versions of the MSidDB (Subramanian, et al. (2005) 
+#' PNAS, 102(43):15545-15550) and GeneSetDB (Araki, et al. (2012) FEBS Open Bio, 2:76-82) 
+#' collections.
+#' 
 NULL
 
 #' Human IL-13 dataset  
@@ -120,7 +124,10 @@ NULL
 #' @name Mm.H
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -131,7 +138,10 @@ NULL
 #' @name Mm.c2
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -141,7 +151,10 @@ NULL
 #' @name Mm.c3
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -151,7 +164,10 @@ NULL
 #' @name Mm.c4
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#'  Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -162,7 +178,10 @@ NULL
 #' @name Mm.c5
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -172,7 +191,10 @@ NULL
 #' @name Mm.c6
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
 
@@ -182,8 +204,10 @@ NULL
 #' @name Mm.c7
 #' @docType data
 #' @format list 
-#' @source http://bioinf.wehi.edu.au/software/MSigDB/
+#' @source http://bioinf.wehi.edu.au/software/MSigDB/. 
+#' Extracted from Aravind Subramanian, Pablo Tamayo, Vamsi K. Mootha, Sayan Mukherjee, Benjamin L. Ebert, Michael A. Gillette, Amanda Paulovich, Scott L. Pomeroy, Todd R. Golub, Eric S. Lander, and Jill P. Mesirov
+#' Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles
+#' PNAS 2005 102 (43) 15545-15550
 #' 
 NULL
-
 
